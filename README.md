@@ -42,3 +42,12 @@ Reach me at: shridharsarda51@gmail.com
 <h3 align="center">
 ✨ <i>Building ML, GNN & Full-Stack Applications</i> ✨
 </h3>
+
+
+## 🧩 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/YOUR_USERNAME/">
+    <img src="[https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode](https://leetcode.com/u/O1k7BQeSAd/)" />
+  </a>
+</p>
