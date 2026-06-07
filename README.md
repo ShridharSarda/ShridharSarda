@@ -8,3 +8,5 @@
 - 🌱 Currently learning System Design and Advanced Backend Development
 - 🚀 Building real-world AI and Full-Stack projects
  
+Reach me at: shridharsarda51@gmail.com
+
