@@ -46,8 +46,10 @@ Reach me at: shridharsarda51@gmail.com
 
 ## 🧩 Coding Profiles
 
+## 🌐 Coding Profiles
+
 <p align="center">
-  <a href="https://leetcode.com/u/YOUR_USERNAME/">
-    <img src="[https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode](https://leetcode.com/u/O1k7BQeSAd/)" />
+  <a href="https://leetcode.com/u/O1k7BQeSAd/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-</p>
+ 
