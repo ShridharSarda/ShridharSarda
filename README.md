@@ -19,11 +19,4 @@ Reach me at: shridharsarda51@gmail.com
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShridharSarda&theme=dark)](https://git.io/streak-stats)
-
-## 📈 GitHub Stats
-
-![Shridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShridharSarda&show_icons=true&theme=tokyonight)
-
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShridharSarda&layout=compact&theme=tokyonight)
+ 
