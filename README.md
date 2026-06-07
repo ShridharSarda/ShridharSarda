@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Shridhar Sarda 👋
 
-<!--
-**ShridharSarda/ShridharSarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & Data Science @ VIT Pune
 
-Here are some ideas to get you started:
+## About Me
+- 💻 Passionate about Software Development and AI
+- 🧠 Interested in Machine Learning, Graph Neural Networks and Data Science
+- 🌱 Currently learning System Design and Advanced Backend Development
+- 🚀 Building real-world AI and Full-Stack projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### XpertLink
+Student Mentor Doubt Solving Platform with mentor matching, chat system, and dynamic pricing.
+
+### Hybrid Temporal GNN for Fraud Detection
+Financial fraud detection system using Graph Neural Networks, Machine Learning, and temporal transaction analysis.
+
+### Intrusion Detection System
+Network attack detection using Machine Learning and the KDD Cup dataset.
+
+### Peer-to-Peer File Sharing Platform
+Secure file sharing application built with Node.js and MongoDB.
+
+## Skills
+- C++
+- Python
+- JavaScript
+- Machine Learning
+- Data Structures & Algorithms
+- SQL
+- Flask
+- Node.js
+- Graph Neural Networks
+
+## Connect With Me
+- LinkedIn: [Add your LinkedIn URL]
+- Email: [Add your Email]
